@@ -1,1 +1,1 @@
-assigns permission to user betty
+sho file owner
